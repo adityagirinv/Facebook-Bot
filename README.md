@@ -1,6 +1,10 @@
 
 # FB APP
 
+This app relies on bs4 and requests make sure to install it before proceding forward!
+```
+pip install -r requirements.txt
+```
 This app readily uses cookies meaning once you login your cookies are saved and used until it expires.
 To *login* first create an object for FB class
 ```  
